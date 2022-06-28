@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IdCard</string>
+    <string name="name">Ahmed hassan</string>
+    <string name="job">Engineer</string>
+    <string name="location">UK</string>
+    <string name="review">(150 Reviews)</string>
+    <string name="rate">4.5</string>
+    <string name="hours">3 hr</string>
+    <string name="nationality">Russian</string>
+    <string name="days">5 Days ago</string>
+</resources>
